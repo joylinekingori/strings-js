@@ -15,13 +15,13 @@ console.log(count);
 count= storyLower.split("brown").length-1;
 console.log(count);
 //find if string contains"are"
-const stringOne = "The pupils are reading in the library";
-let a= stringOne.includes("are");
+const string1 = "The pupils are reading in the library";
+let a= string1.includes("are");
 console.log(a);
 
 //find if string contains"sitting"
-const stringTwo = "The child was sitting on the table before it fell";
-let c= stringTwo.includes("sitting");
+const string2 = "The child was sitting on the table before it fell";
+let c= string2.includes("sitting");
 console.log(c);
 //convert to UpperCase, LowerCase,TitleCase
 //UpperCase
